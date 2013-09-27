@@ -1,0 +1,9 @@
+body {
+	background-color: rgba(0,0,0,0.67);
+}
+
+div.content {
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: rgba(0,0,0,0.34);
+}
